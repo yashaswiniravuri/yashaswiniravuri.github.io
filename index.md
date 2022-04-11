@@ -28,7 +28,7 @@ I am a 3rd year, Integrated MTech student in the Computer Science and Engineerin
 ## PROJECTS
 
 ### Books At Your Doorstep - An Online Digital Library Management System
-*website-link*
+[website-link](http://bayds.azurewebsites.net)
 
 Books at your door step is a full-stack web application built on ASP.NET MVC5 framework, developed on Microsoft Visual Studio 2019 and is published on Microsoft Azure. Models and Controllers are developed in C# and Views are developed in cshtml. The data is managed and stored on and Microsoft SQL Server. 
 
@@ -51,7 +51,7 @@ Key Features:
 - I adapt to any change easily, and take responsibility for the work I do. 
 - I speak three languages. English, Hindi and Telugu. 
 
-##ACHIEVEMENTS
+## ACHIEVEMENTS
 - Received merit certificate by VIT for the outstanding performance in academics for the year 2019-2020
 - Received merit scholarship by VIT for the outstanding performance in academics for the year 2019-2020
 
